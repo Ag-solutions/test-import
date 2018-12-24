@@ -1,0 +1,1 @@
+export const testConst = [1,2,3];
